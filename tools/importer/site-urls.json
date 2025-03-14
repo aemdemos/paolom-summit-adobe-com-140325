@@ -1,0 +1,153 @@
+{
+  "originUrl": "https://summit.adobe.com/",
+  "urls": [
+    {
+      "url": "https://summit.adobe.com/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/apac/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/emea/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/jp/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/module-test-page/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/agenda/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/attend/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/become-a-sponsor/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/become-a-sponsor/thank-you/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/code-of-conduct/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/community/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/engage-with-sponsors/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/enthusiast/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/exams/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/faq/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/featured-sessions/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/hotels/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/loyalist/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/mailinglist/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/media/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/new-to-summit/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/preconference/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/pricing/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/safety/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/sessions/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/signupandsave/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/skill-exchange/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/speakers/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/sponsors-virtual/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/sponsors/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/summit-online/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://summit.adobe.com/na/virtual-summit/",
+      "source": "CRAWL"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://summit.adobe.com/na/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://summit.adobe.com/na/sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 404"
+    }
+  ]
+}
